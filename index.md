@@ -5,6 +5,8 @@ tagline: All of Narragansett Bay and Rhode Island Sound's Oceanographic data in 
 description: 
 ---
 
+{% include hero.html %}
+
 ## Future home of Narragansett Bay and Rhode Island Sound Oceanographic Database
 
 contact kevin_rosa@uri.edu
