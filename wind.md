@@ -4,7 +4,7 @@ title: Directing to wind station pages
 ---
 
 ## NOAA wind data in yearly documents
-test
+
 
 
 [Newport (station: 8452660)](wind/8452660.html)
