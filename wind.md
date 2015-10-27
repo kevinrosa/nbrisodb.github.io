@@ -1,6 +1,12 @@
 ## NOAA wind data in yearly documents
 
-Station            | Year | file
--------------------|------|------
-8452660 (Newport)  |2004  |[``.mat``](Data/wind/8452660/2004/wind_2004_8452660.mat) [``.csv``](Data/wind/8452660/2004/wind_2004_8452660.csv) [metadata](Data/wind/8452660/2004/README_wind_2004_8452660.csv)
- |2005  |[``.mat``](Data/wind/8452660/2005/wind_2005_8452660.mat) [``.csv``](Data/wind/8452660/2005/wind_2005_8452660.csv) [metadata](Data/wind/8452660/2005/README_wind_2005_8452660.csv)
+
+[Newport (station: 8452660)](wind/8452660.html)
+
+[Conimicut Light (station: 8452944)](wind/8452944.html)
+
+[Potter Cove, Prudence Island (station: 8452951)](wind/8452951.html)
+
+[Providence (station: 8454000)](wind/8454000.html)
+
+[Quonset Point (station: 8454049)](wind/8454049.html)
