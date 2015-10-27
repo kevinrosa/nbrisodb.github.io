@@ -1,3 +1,8 @@
+---
+layout: default
+title: Directing to wind station pages
+---
+
 ## NOAA wind data in yearly documents
 
 
